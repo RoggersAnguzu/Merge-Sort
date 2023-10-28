@@ -1,4 +1,4 @@
-# Merge-Sort
+# Merging and Sorting
 Number Sorting Machine.
 This C# console application implements a number sorting machine that sorts a given array of numbers using the Merge Sort algorithm. The program ensures user access by requiring a password before allowing input and execution.
 
