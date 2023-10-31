@@ -22,7 +22,7 @@ The program will then apply the Merge Sort algorithm to sort the numbers.
 
 The sorted numbers will be displayed as the final output.
 
-Security
+Security.
 The program employs a password system to ensure only authorized users can access the number sorting machine. The default password is set to "4676," but you can modify it as needed by changing the pass variable in the word() method.
 
 Contributing
